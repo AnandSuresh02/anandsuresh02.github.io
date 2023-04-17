@@ -843,7 +843,7 @@ a:hover {
 
 .work-img {
   display: block;
-  width: auto;
+  width: 82.5%;
   align-items: center;
   overflow: hidden;
   border-radius: 30px;
