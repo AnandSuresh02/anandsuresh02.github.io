@@ -1082,6 +1082,10 @@ a:hover {
   border-radius: 20px;
 }
 
+.timeline-body {
+  font-weight: 500;
+}
+
 .timeline > li.timeline-start .rectangle, .timeline > li.timeline-end .rectangle {
   display: block;
   position: relative;
