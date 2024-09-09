@@ -9,17 +9,17 @@ h3,
 h4,
 h5,
 h6 {
-  color: #343434;
+  color: #000000;
 }
 
 a {
-  color: #343434;
+  color: #000000;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
 
 a:hover {
-  color: #343434;
+  color: #000000;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -30,16 +30,16 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #343434;
+  color: #000000;
 }
 
 .color-d {
-  color: #343434;
+  color: #000000;
 }
 
 .color-text-a {
   text-decoration: none;
-  color: #343434;
+  color: #000000;
 }
 
 .box-shadow,
@@ -138,7 +138,7 @@ a:hover {
 
 .title-s {
   font-weight: 600;
-  color: #343434;
+  color: #000000;
   font-size: 1.1rem;
 }
 
@@ -150,7 +150,7 @@ a:hover {
   text-decoration: none;
   font-size: 1.4rem;
   font-weight: bold;
-  color: #343434;
+  color: #000000;
 }
 
 .line-mf {
@@ -268,11 +268,11 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #343434;
+  background-color: #000000;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #343434;
+  background-color: #000000;
   width: 25px;
 }
 
@@ -286,12 +286,12 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #343434;
+  background-color: #000000;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #343434;
+  color: #000000;
   top: auto;
   left: auto;
   right: 30px;
@@ -307,7 +307,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #343434;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -438,7 +438,7 @@ a:hover {
 }
 
 #header .logo a {
-  color: #343434;
+  color: #000000;
 }
 
 #header .logo img {
@@ -476,7 +476,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #343434;
+  color: #000000;
   font-size: 16px;
   font-weight: 600;
   padding: 0;
@@ -510,7 +510,7 @@ a:hover {
 .navbar a:hover:before,
 .navbar li:hover>a:before,
 .navbar .active:before {
-  background-color: #343434;
+  background-color: #000000;
   visibility: visible;
   width: 100%;
 }
@@ -533,7 +533,7 @@ a:hover {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #343434;
+  background: #000000;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -546,7 +546,7 @@ a:hover {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #343434;
+  color: #000000;
 }
 
 .navbar .dropdown ul a i {
@@ -556,7 +556,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #343434;
+  color: #000000;
 }
 
 .navbar .dropdown:hover>ul {
@@ -589,7 +589,7 @@ a:hover {
 }
 
 .mobile-nav-toggle {
-  color: #343434;
+  color: #000000;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -652,13 +652,13 @@ a:hover {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #343434;
+  color: #000000;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #343434;
+  color: #000000;
 }
 
 .navbar-mobile .getstarted,
@@ -693,7 +693,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #343434;
+  color: #000000;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -722,7 +722,7 @@ a:hover {
 }
 
 .hero .hero-title {
-  color: #343434;
+  color: #000000;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -736,7 +736,7 @@ a:hover {
 .hero .hero-subtitle {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #343434;
+  color: #000000;
 }
 
 @media (min-width: 768px) {
@@ -778,7 +778,7 @@ a:hover {
 }
 
 .hero-single .breadcrumb .breadcrumb-item.active {
-  color: #343434;
+  color: #000000;
 }
 
 .hero-single .breadcrumb a {
@@ -806,7 +806,7 @@ a:hover {
 }
 
 .lead {
-  color: #343434;
+  color: #000000;
 }
 
 .skill-mf span {
@@ -1084,6 +1084,7 @@ a:hover {
 
 .timeline-body {
   font-weight: 500;
+  color: #000000;
 }
 
 .timeline > li.timeline-start .rectangle, .timeline > li.timeline-end .rectangle {
@@ -1147,7 +1148,7 @@ a:hover {
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-date {
   padding: 0 10px;
-  background-color: #343434;
+  background-color: #000000;
 }
 
 .timeline > li > .timeline-panel .timeline-heading .timeline-position {
