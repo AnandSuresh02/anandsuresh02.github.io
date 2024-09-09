@@ -508,7 +508,7 @@ a:hover {
 .navbar .active:before {
   background-color: #343434;
   visibility: visible;
-  width: 80%;
+  width: 100%;
 }
 
 .navbar a:hover,
