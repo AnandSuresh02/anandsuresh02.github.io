@@ -1,5 +1,5 @@
 body {
-  background-color: #fafafa;
+  background-color: #ffffff;
   color: #4e4e4e;
 }
 
@@ -198,11 +198,11 @@ a:hover {
 }
 
 .footer{
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 
 .socials {
-  background-color: #fafafa;
+  background-color: #ffffff;
   color: #c6c6c6;
   padding: 1.5rem 0;
   transition: all 500ms ease;
@@ -446,7 +446,7 @@ a:hover {
 }
 
 #header.header-scrolled {
-  background: rgba(240,240,240,1);
+  background: rgba(252,252,252,1);
   padding: 12px 0;
 }
 
@@ -1036,7 +1036,7 @@ a:hover {
 
 .section-experience {
   padding: 70px 0;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 
 .section-experience .section-diff-title h2 {
