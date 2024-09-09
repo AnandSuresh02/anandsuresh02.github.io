@@ -119,6 +119,10 @@ a:hover {
   vertical-align: middle;
 }
 
+.lead{
+  font-weight: 450;
+}
+
 /*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
